@@ -1,0 +1,5 @@
+test/
+.vscode
+.watch.json
+*.pprof
+*.exe
